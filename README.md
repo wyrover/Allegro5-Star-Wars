@@ -1,4 +1,4 @@
-# Allegro5-Star-Wars
+# Overview
 Implementing aspects of a 2D Star Wars game using the Allegro5 game programming library.
 
 ![alt tag](https://raw.githubusercontent.com/ckjoshi9/Allegro5-Star-Wars/master/screenshot.png)
