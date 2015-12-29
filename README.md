@@ -1,5 +1,5 @@
 # Overview
-Implementing aspects of a 2D Star Wars game using the Allegro5 game programming library.
+This is an implementation of aspects of a 2D Star Wars game using the Allegro5 game programming library for C++. I worked on this project while taking <a href="https://www.youtube.com/playlist?list=PL6B459AAE1642C8B4">Allegro5 tutorials</a> online.
 
 ![alt tag](https://raw.githubusercontent.com/ckjoshi9/Allegro5-Star-Wars/master/screenshot.png)
 
